@@ -14,7 +14,7 @@ const Footer: NextPage = () => {
                                 <aside className="footer__widget">
                                     <div className="footer__info">
                                         <div className="footer__logo">
-                                            <img src="/irdmain_and_logo-02.png" alt="image" />
+                                            <img src="./irdmain_and_logo-02.png" alt="image" />
                                         </div>
                                         <div className="footer__social__link">
                                             <ul>
@@ -52,7 +52,7 @@ const Footer: NextPage = () => {
                                             <ul className="footer__widget__list">
                                                 <li><a href="https://mis-ird.rmuti.ac.th/gs/admin/login">ระบบเก็บข้อมูล Google scholar</a></li>
                                                 <li><a href="https://www.mis-ird.rmuti.ac.th/conceptpropff/auth">ระบบการรับข้อเสนอ FF</a></li>
-                                                <li><a href="https://inst.ird.rmuti.ac.th/">ระบบจองเครื่องมือวิจัย</a></li>
+                                                <li><a href="https://research.ird.rmuti.ac.th/jourregis/home">ระบบลงทะเบียนเข้าร่วมโครงการอบรม</a></li>
                                                 <li><a href="https://mis-ird.rmuti.ac.th/main/">ระบบสารสนเทศทั้งหมด</a></li>
                                             </ul>
                                         </aside>
