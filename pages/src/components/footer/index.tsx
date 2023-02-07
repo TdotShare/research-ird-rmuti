@@ -50,7 +50,7 @@ const Footer: NextPage<AppProps> = ({ lang = "th" }) => {
                                         <aside className="footer__widget wow fadeInUp" data-wow-delay="0.4s">
                                             <h2 className="footer__widget__title">{langDisplay[lang].footer_quick_link}</h2>
                                             <ul className="footer__widget__list">
-                                                <li><a href="https://ird.rmuti.ac.th/main/archives/category/activity">กิจกรรม สวพ.</a></li>
+                                                <li><a href="https://ird.rmuti.ac.th/main/archives/category/activity">กิจกรรม สวพ. </a></li>
                                                 <li><a href="https://ird.rmuti.ac.th/main/archives/category/public_relations">ประชาสัมพันธ์ สวพ.</a></li>
                                                 <li><a href="https://ird.rmuti.ac.th/main/archives/1721">จดหมายข่าว</a></li>
                                                 <li><a href="https://ird.rmuti.ac.th/main">เว็บข่าว สวพ.</a></li>
